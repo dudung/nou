@@ -4,7 +4,7 @@ date = 2024-04-28T21:20:00+07:00
 draft = false
 math = true
 tags = ['lighting', 'farming']
-url = '0024'
+url = '1024'
 authors = ['viridi']
 +++
 Model for lighting between racks in vertical farming <!--more-->

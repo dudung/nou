@@ -4,7 +4,7 @@ date = 2024-04-05T20:32:00+07:00
 draft = false
 math = true
 tags = ['to', 'mermaid', 'latex', 'chart.js', 'markdown']
-url = '0001'
+url = '1001'
 authors = ['viridi']
 +++
 A short story without any purposes <!--more-->

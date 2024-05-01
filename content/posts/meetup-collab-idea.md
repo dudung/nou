@@ -4,7 +4,7 @@ date = 2024-04-30T20:02:00+07:00
 draft = false
 math = true
 tags = ['meetup', 'collab', 'idea']
-url = '0026b'
+url = '1026'
 authors = ['viridi']
 +++
 A discussion to find a collaboration idea <!--more-->

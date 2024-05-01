@@ -4,7 +4,7 @@ date = 2024-04-06T01:15:00+07:00
 draft = false
 math = true
 tags = ['flowchart', 'mermaid']
-url = '0002'
+url = '1002'
 authors = ['viridi']
 +++
 Short intro about fowchart and the use of Mermaid <!--more-->

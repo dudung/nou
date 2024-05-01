@@ -4,7 +4,7 @@ date = 2024-04-16T22:52:00+07:00
 draft = false
 math = true
 tags = ['machine learning', 'activation function']
-url = '0012'
+url = '1012'
 authors = ['viridi']
 +++
 Short info about activation function <!--more-->

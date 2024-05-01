@@ -4,7 +4,7 @@ date = 2024-05-01T07:26:00+07:00
 draft = false
 math = true
 tags = ['log']
-url = '0027b'
+url = '1027'
 authors = ['viridi']
 +++
 Search the right term for new blog on GitHub <!--more-->
@@ -19,6 +19,107 @@ Previous examples are intended for private use or at least institutional use. Th
 
 I would like to make the log, as much as possible, in plain text with additional features if necessary, e.g. LaTeX with MathJax or KaTeX, diagrams with Mermaid, formatted text with Markdown, sheet music with abcjs, molecules visualization with 3Dmol.js, charts with Chart.js, and others with HTML.
 
+
+## new github pages
+Following are steps and sub-steps to create new GitHub Pages from a new repository.
+
+### create new repository
+1. Visit https://github.com/new.
+2. It might be required to login first.
+3. Fill repository name, e.g. nou.
+4. Change until it is available.
+5. Write description, e.g. notes on unstructured.
+6. Choose Public.
+7. Check Add a README file.
+8. Add .gitignore, choose any template, e.g Go.
+9. Choose appropriate license, e.g. MIT License.
+10. Click the green button, Create repository, at bottom right.
+
+### edit .gitignore
+1. Visit https://github.com/dudung/nou, if not redirected automatically.
+2. Notice that `dudung` is the GitHub username in this example.
+3. Click `.gitignore` file.
+4. Edit the file, click 🖉 icon.
+5. Erase all lines.
+6. Add following lines
+```
+# shortcuts
+cmd.lnk
+
+# folders
+public
+```
+7. Click green button, Commit changes..., on top right.
+8. Click green button, Commit changes, on bottom right.
+9. Visit the repository page, e.g. https://github.com/dudung/nou.
+
+### clone repository to local folder
+1. On Windows, open File Explorer, with  ⊞ + E.
+2. Navigate to drive or folder where `nou` repository will be cloned.
+3. Right click with mouse to open context menu, choose Show more options.
+4. Choose Open Git Bash here.
+5. Type `git clone https://github.com/dudung/nou nou` and press Enter.
+6. Type `cd nou` and press Enter.
+
+### create cmd shortcut
+1. On Windows, open `nou` folder using File Explorer.
+2. Right click with mouse to open context menu, choose New, then Shortcut.
+3. Type cmd.
+4. Click Next button, on bottom right.
+5. Rename it from cmd.exe to cmd.
+6. Click Finish button, on bottom right.
+7. Right click on new created icon, cmd, choose Properties.
+8. Delete value on Start in field.
+9. Click OK button, on the bottom.
+
+### copy files from previous repository
+1. Visit https://github.com/dudung/to.
+2. Copy `assets\css` and its content to `nou`.
+3. Copy `layouts` and all its content to `nou`.
+4. Copy `themes` and all its content to `nou`.
+5. Copy `hugo.toml` to `nou`.
+6. Copy `content/authors` and its content to `nou`.
+7. Copy `content/about` and its content `nou` and modify what necessary.
+8. Create `content/posts` and copy some posts.
+
+### run hugo
+1. Click `cmd` on `nou`.
+2. Edit `hugo.toml` by modifying following lines
+```
+baseURL = 'https://dudung.github.io/nou'
+title = 'nou'
+```
+2. Type `hugo server`.
+3. Visit http://localhost:1313/nou/ with a web browser.
+4. On cmd windown, Press CTRL+C to stop the service.
+
+### update remote repository
+1. On Git Bash window, type `git add .` and press Enter.
+2. Type `git commit -a -m "new, update"` and press Enter.
+3. Type `git push` and press Enter.
+
+### set workflow on remote repository
+1. Visit settings page https://github.com/dudung/nou/settings.
+2. Choose Pages https://github.com/dudung/nou/settings/pages.
+3. Choose Source to GitHub Actions.
+4. Click browse all workflows https://github.com/dudung/nou/actions/new.
+5. Type `hugo` on Search workflows field.
+6. Click Configure button on Hugo.
+7. Click green button, Commit changes..., on top right.
+8. Click green button, Commit changes, on bottom right.
+9. Visit repo page https://github.com/dudung/nou.
+10. Wait the yellow circle &bull; to turn to green check mark &check;.
+11. Visit https://dudung.github.io/nou/, the GitHub Pages for nou repo.
+
+## update local repository
+1. On Git Bash window, type `git pull` to update local files with the workflow.
+2. Navigate to `.github/workflows/` to see `hugo.yml` file for Hugo workflow.
+
+After those steps
++ Remore repository is https://github.com/dudung/nou.
++ GitHub Pages https://dudung.github.io/nou/.
++ Local folder `nou`.
++ Local host http://localhost:1313/nou/.
 
 ## notes
 [^bahba_2014]: Pete Bahba, "What's the spirit of the internet? Freedom, equality，customize?", Quora, 31 Aug 2024, url https://qr.ae/pswoMp [20240501].

@@ -4,7 +4,7 @@ date = 2024-04-26T21:09:00+07:00
 draft = false
 math = true
 tags = ['accreditation', 'formula']
-url = '0022'
+url = '1022'
 authors = ['viridi']
 +++
 Formulas in assessment document for accreditation <!--more-->

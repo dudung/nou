@@ -4,7 +4,7 @@ date = 2024-04-24T05:59:00+07:00
 draft = false
 math = true
 tags = ['hyperoperation', 'sequence']
-url = '0020'
+url = '1020'
 authors = ['viridi']
 +++
 Illustration of summation, multiplication, exponentiation and then to hyperoperation sequence <!--more-->

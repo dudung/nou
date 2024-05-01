@@ -4,7 +4,7 @@ date = 2024-04-13T06:02:00+07:00
 draft = false
 math = true
 tags = ['medium', 'machine learning', 'python']
-url = '0009'
+url = '1009'
 authors = ['viridi']
 +++
 Finding stories about machine learning on Medium <!--more-->

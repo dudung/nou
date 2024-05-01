@@ -4,7 +4,7 @@ date = 2024-04-12T07:12:00+07:00
 draft = false
 math = true
 tags = ['latex', 'equation', 'katex', 'hugo', 'mhchem']
-url = '0008'
+url = '1008'
 authors = ['viridi']
 +++
 LaTex equations with KaTex and their code <!--more-->

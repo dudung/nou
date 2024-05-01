@@ -4,7 +4,7 @@ date = 2024-04-21T22:19:00+07:00
 draft = false
 math = true
 tags = ['synthetic data', 'machine learning', 'python']
-url = '0017'
+url = '1017'
 authors = ['viridi']
 +++
 How to generate synthetic data for ML understanding <!--more-->

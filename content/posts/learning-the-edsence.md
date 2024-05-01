@@ -4,7 +4,7 @@ date = 2024-04-27T16:15:00+07:00
 draft = false
 math = true
 tags = ['journal', 'edsence']
-url = '0023b'
+url = '1023'
 authors = ['viridi']
 +++
 Register, login, and view the archives of edsence <!--more-->

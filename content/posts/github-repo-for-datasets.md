@@ -4,7 +4,7 @@ date = 2024-04-15T19:55:00+07:00
 draft = false
 math = true
 tags = ['github', 'datasets', 'data lake']
-url = '0011'
+url = '1011'
 authors = ['viridi']
 +++
 Github repo for machine learning datasets as a pseudo data lake <!--more-->

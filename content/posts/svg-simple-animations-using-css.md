@@ -4,7 +4,7 @@ date = 2024-04-09T05:43:00+07:00
 draft = false
 math = true
 tags = ['svg', 'html', 'css']
-url = '0005'
+url = '1005'
 authors = ['viridi']
 +++
 Short intro to SVG and some simple examples <!--more-->

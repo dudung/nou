@@ -4,7 +4,7 @@ date = 2024-04-17T21:29:00+07:00
 draft = false
 math = true
 tags = ['neural network', 'architecture']
-url = '0013'
+url = '1013'
 authors = ['viridi']
 +++
 Short intro and overview about neural network architectures <!--more-->
