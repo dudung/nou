@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <header class="homepage-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <span class="subtitle">{{ . }}</span>
+      {{ end }}
+    </header>
+    <div class="homepage-content">
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{ .Content }}
+    </div>
+   
+    {{ $time1 := printf "2024-04-05T20:32:00+07:00" | time }}
+    {{ $time2 := printf "2024-04-01T09:01:00+07:00" | time }}
+   
+    <div>
+      {{ range $index, $element := .Site.RegularPages }}
+        
+        {{ if and (gt $index 0) (ne .Date.Unix $time2.Unix) }}
+          &bull;
+        {{ end }}
+        
+        <code>{{ $index }} {{ dateFormat "02-Jan-2006" .Date }}</code>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{/* .Summary */}}
+        
+        {{ if eq .Date.Unix $time1.Unix }}
+          <br><br>
+        {{ end }}
+        
+      {{ end }}
+    </div>
+  </main>
+{{ end }}

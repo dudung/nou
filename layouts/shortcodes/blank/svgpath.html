@@ -1,0 +1,40 @@
+{{ $w := default "300" (.Get "width") }}
+{{ $h := default "200" (.Get "height") }}
+{{ $seed := "foo" }}
+{{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+<div id='{{ $id }}' style="padding: 4px;">
+</div>
+
+<script>
+var svgns = "http://www.w3.org/2000/svg";
+var svg = document.createElementNS(svgns, "svg");
+svg.setAttribute("width", '{{ $w }}');
+svg.setAttribute("height", '{{ $h }}');
+
+var border = '{{ .Get "border" }}';
+if(border.length == 0) border = "#888";
+svg.style.border = '0.1px solid ' + border;
+
+var div = document.getElementById('{{ $id }}');
+
+var text = {{ ( .Inner | chomp) }};
+var eol = getEOL(text);
+var blocks = getBlocks(text, eol);
+
+for(let b of blocks) {
+  let lines = b.split(eol);
+  let style = lines.shift().split(' ')[1].split(',');
+  let d = lines.join(' ');
+
+  let path = document.createElementNS(svgns, "path");
+  path.setAttribute("d", d);
+  path.setAttribute("stroke", style[0]);
+  path.setAttribute("stroke-width", style[1]);
+  path.setAttribute("fill", style[2]);
+
+  svg.append(path);
+  div.append(svg);
+}
+</script>
+
