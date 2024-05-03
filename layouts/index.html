@@ -11,7 +11,8 @@
       {{ .Content }}
     </div>
     
-    {{ $index := sub (len (.Site.RegularPages)) 1 }}
+    {{ $max := len .Site.RegularPages }}
+    {{ $index :=  sub $max 1 }}
     
     {{ $num := slice 2 35 93 26 }}
     {{ $n0 := index $num 0 }}
@@ -20,6 +21,10 @@
     {{ $n3 := add $n2 (index $num 3) }}
     
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
+        {{ if eq $index (sub $max 1) }}
+          <code style="color: #faa;">nou(&infin;):</code> 
+        {{ end }}
+        
         <code>
           <x style="color: #aaa;">{{ .Params.url }}</x>
           {{/* .{{ printf "%04d" $index */}}
@@ -29,7 +34,7 @@
         {{/* .Summary */}}
         
         {{ if eq $index $n0 }}
-          <br><br><code style="color: #faa;">&bull;(2):</code>
+          <br><br><code style="color: #faa;">&alpha;(2):</code>
         {{ end }}
 
         {{ if eq $index $n1 }}
