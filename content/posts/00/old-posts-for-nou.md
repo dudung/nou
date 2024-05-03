@@ -26,6 +26,8 @@ Old posts to be migrated to nou <!--more-->
 
 - https://bugx.vercel.app/
 - https://github.com/dudung/log
+- https://github.com/dudung/to (26) &check;
+- https://github.com/dudung/o (93) &check;
 
 
 ## arimasen (59)
