@@ -24,16 +24,17 @@ Old posts to be migrated to nou <!--more-->
 + https://www.slideshare.net/sparisoma
 + https://zenodo.org/search?page=2&size=20&q=%22Sparisoma%20Viridi%22%20%22Viridi,%20Sparisoma%22
 
-- https://bugx.vercel.app/
-- https://github.com/dudung/log
-- https://github.com/dudung/to (26) &check;
-- https://github.com/dudung/o (93) &check;
-
+- `2024-2024` https://github.com/dudung/to (26) &check;
+- `2024-2024` https://github.com/dudung/o (93) &check;
+- `2024-2024` https://github.com/dudung/blank (36)
+- `2022-2022` https://dudung.github.io/bugx/ (180)
+- `2021-2022` https://bugx.vercel.app/ (212)
+- `2020-2020` https://github.com/dudung/log (10)
 
 ## arimasen (59)
-+ https://elemen-kekosongan.blogspot.com/ (9)
-+ https://seratus-hari.blogspot.com/ (32)
-+ https://gua-susun-utara.blogspot.com/ (13)
-+ https://penjara-kokoh.blogspot.com/ (1)
-+ https://coretan-silang.blogspot.com/ (3)
-+ https://celoteh-dingin.blogspot.com/ (1)
++ `2008-2008` https://celoteh-dingin.blogspot.com/ (1)
++ `2008-2008` https://coretan-silang.blogspot.com/ (3)
++ `2007-2007` https://penjara-kokoh.blogspot.com/ (1)
++ `2007-2007` https://gua-susun-utara.blogspot.com/ (13)
++ `2007-2007` https://seratus-hari.blogspot.com/ (32)
++ `2006-2007` https://elemen-kekosongan.blogspot.com/ (9)
