@@ -3,7 +3,7 @@ title = 'learn to manage hpc'
 date = 2024-03-18T12:52:00+07:00
 draft = false
 tags = ['sk5004']
-url = '0980'
+url = '1980'
 +++
 Learn to manage HPC: Notes of the progress
 <!--more-->

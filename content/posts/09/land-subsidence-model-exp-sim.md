@@ -3,7 +3,7 @@ title = 'land subsidence model exp-sin'
 date = 2024-02-22T13:00:00+07:00
 draft = false
 tags = ['fi4092']
-url = '0969'
+url = '1969'
 +++
 Land subsidence model: Experiment and simulation of sand and salt mixture with water.
 <!--more-->

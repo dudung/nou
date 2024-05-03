@@ -3,7 +3,7 @@ title = 'plot with matplotlib'
 date = 2024-02-19T03:56:00+07:00
 draft = false
 tags = ['mr4103']
-url = '0973'
+url = '1973'
 +++
 Plot with Matplotlib
 <!--more-->

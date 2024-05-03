@@ -3,7 +3,7 @@ title = 'linked list in python'
 date = 2023-04-15T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0919'
+url = '1919'
 +++
 Sekilas linked list & Python (+blockchain)
 <!--more-->

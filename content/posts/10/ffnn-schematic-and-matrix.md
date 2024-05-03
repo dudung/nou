@@ -4,7 +4,7 @@ date = 2024-04-22T09:53:00+07:00
 draft = false
 math = true
 tags = ['machine learning', 'neural netwok', 'feed forward']
-url = '1018'
+url = '2018'
 authors = ['viridi']
 +++
 Schematic for feed forward neural network and its matrix <!--more-->

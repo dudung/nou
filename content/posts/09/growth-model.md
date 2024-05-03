@@ -3,7 +3,7 @@ title = 'growth model'
 date = 2023-05-13T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0916'
+url = '1916'
 +++
 Growth model
 <!--more-->

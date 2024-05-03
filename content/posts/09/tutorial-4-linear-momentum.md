@@ -3,7 +3,7 @@ title = 'tutorial 4 linear momentum'
 date = 2022-09-29T09:00:00+07:00
 draft = false
 tags = ['fi1101']
-url = '0951'
+url = '1951'
 +++
 Diskusi Tutorial 4: Momentum Linier
 <!--more-->

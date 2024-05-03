@@ -3,7 +3,7 @@ title = 'rev ml species id'
 date = 2024-03-11T10:11:00+07:00
 draft = false
 tags = ['nt7091']
-url = '0976'
+url = '1976'
 +++
 Machine learning for species identifikation: Short review for research proposal
 <!--more-->

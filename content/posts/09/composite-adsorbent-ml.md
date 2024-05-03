@@ -3,7 +3,7 @@ title = 'composite adsorbent ml'
 date = 2024-02-20T09:41:00+07:00
 draft = false
 tags = ['fi4092']
-url = '0984'
+url = '1984'
 +++
 Composite adsorbent modeling with machine learning
 <!--more-->

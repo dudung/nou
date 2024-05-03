@@ -3,7 +3,7 @@ title = 'python basics'
 date = 2023-03-18T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0935'
+url = '1935'
 +++
 Dasar-dasar pemrograman Python
 <!--more-->

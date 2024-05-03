@@ -3,7 +3,7 @@ title = 'questionnaire mid 2023-1'
 date = 2023-10-26T11:00:00+07:00
 draft = false
 tags = ['fi4002']
-url = '0937'
+url = '1937'
 +++
 Kuisioner Tengah Semester: FI4002 Simulasi dan Pemodelan Sistem Fisis
 <!--more-->

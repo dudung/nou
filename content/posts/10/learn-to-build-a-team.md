@@ -4,7 +4,7 @@ date = 2024-05-03T09:36:00+07:00
 draft = false
 math = true
 tags = ['llm', 'llama', 'python']
-url = '1029'
+url = '2029'
 authors = ['viridi']
 +++
 Find right person for the team <!--more-->

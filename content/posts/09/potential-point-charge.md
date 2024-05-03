@@ -3,7 +3,7 @@ title = 'potential point charge'
 date = 2021-02-22T07:00:00+07:00
 draft = false
 tags = ['fi1201']
-url = '0932'
+url = '1932'
 +++
 Potensial listrik satu titik muatan
 <!--more-->

@@ -4,7 +4,7 @@ date = 2024-04-23T18:55:00+07:00
 draft = false
 math = true
 tags = ['euler method', 'ode', 'simple motion']
-url = '1019'
+url = '2019'
 authors = ['viridi']
 +++
 Solving an ODE for simple motion using Euler method <!--more-->

@@ -3,7 +3,7 @@ title = 'simple problem solving'
 date = 2023-04-01T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0944'
+url = '1944'
 +++
 Pemecahan masalah sederhana dan ilustrasinya dengan Python
 <!--more-->

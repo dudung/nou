@@ -3,7 +3,7 @@ title = 'abm simulation features'
 date = 2023-01-16T09:00:00+07:00
 draft = false
 tags = ['ku4078']
-url = '0902'
+url = '1902'
 +++
 Agent-based model simulation and its potential features
 <!--more-->

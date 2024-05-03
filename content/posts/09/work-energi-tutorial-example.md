@@ -3,7 +3,7 @@ title = 'work-energy tutorial example'
 date = 2022-09-21T09:00:00+07:00
 draft = false
 tags = ['fi1101']
-url = '0956'
+url = '1956'
 +++
 Usaha dan energi: Contoh soal (tutorial)
 <!--more-->

@@ -4,7 +4,7 @@ date = 2024-05-01T07:26:00+07:00
 draft = false
 math = true
 tags = ['log', 'hugo', 'github pages']
-url = '1027'
+url = '2027'
 authors = ['viridi']
 +++
 Search the right term for new blog on GitHub <!--more-->

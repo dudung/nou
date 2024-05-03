@@ -4,7 +4,7 @@ date = 2024-04-20T23:34:00+07:00
 draft = false
 math = true
 tags = ['slide', 'osf']
-url = '1016'
+url = '2016'
 authors = ['viridi']
 +++
 Info about 3rd generation in sharing slides <!--more-->

@@ -4,7 +4,7 @@ date = 2024-04-07T03:25:00+07:00
 draft = false
 math = true
 tags = ['html', 'ul', 'li', 'css']
-url = '1003'
+url = '2003'
 authors = ['viridi']
 +++
 The use of HTML &lt;ul&gt; element and its &lt;li&gt; element customization <!--more-->

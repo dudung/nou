@@ -3,7 +3,7 @@ title = 'science gallery'
 date = 2022-11-04T09:00:00+07:00
 draft = false
 tags = ['fi8094']
-url = '0942'
+url = '1942'
 +++
 Science Gallery: A Brainstorming
 <!--more-->

@@ -3,7 +3,7 @@ title = 'organizational culture'
 date = 2022-09-15T09:00:00+07:00
 draft = false
 tags = ['rn6086']
-url = '0927'
+url = '1927'
 +++
 Budaya Organisasi untuk Keselamatan, Keamanan, dan Perlindungan di Negara-negara Tenaga Nuklir Baru
 <!--more-->

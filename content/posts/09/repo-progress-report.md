@@ -3,7 +3,7 @@ title = 'repo progress report'
 date = 2024-03-20T21:03:00+07:00
 draft = false
 tags = ['sk6093']
-url = '0986'
+url = '1986'
 +++
 Repository progress report: Learning to make it with sufficient information
 <!--more-->

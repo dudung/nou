@@ -3,7 +3,7 @@ title = 'empirical model with python'
 date = 2023-05-27T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0911'
+url = '1911'
 +++
 Model empirik
 <!--more-->

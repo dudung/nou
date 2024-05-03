@@ -3,7 +3,7 @@ title = 'journal introduction'
 date = 2022-09-22T09:00:00+07:00
 draft = false
 tags = ['nt6094']
-url = '0918'
+url = '1918'
 +++
 Jurnal: Pendahuluan
 <!--more-->

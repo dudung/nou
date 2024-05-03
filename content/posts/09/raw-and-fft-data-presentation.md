@@ -3,7 +3,7 @@ title = 'raw and fft data presentation'
 date = 2024-02-09T09:00:00+07:00
 draft = false
 tags = ['fi8094']
-url = '0939'
+url = '1939'
 +++
 Raw and FFT data presentation: Physics collaboration with machine learning
 <!--more-->

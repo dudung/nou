@@ -3,7 +3,7 @@ title = 'is it about wave'
 date = 2024-03-13T22:22:00+07:00
 draft = false
 tags = ['fi500']
-url = '0968'
+url = '1968'
 +++
 Is it about wave? It might be, or it might be not.
 <!--more-->

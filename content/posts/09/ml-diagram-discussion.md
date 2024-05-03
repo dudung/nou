@@ -3,7 +3,7 @@ title = 'ml diagram discussion'
 date = 2023-04-10T13:00:00+07:00
 draft = false
 tags = ['fi8094']
-url = '0921'
+url = '1921'
 +++
 Machine Learning: Discussing through available diagrams
 <!--more-->

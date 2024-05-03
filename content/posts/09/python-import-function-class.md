@@ -3,7 +3,7 @@ title = 'python import function class'
 date = 2023-04-08T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0936'
+url = '1936'
 +++
 Python: Import, Function, Class
 <!--more-->

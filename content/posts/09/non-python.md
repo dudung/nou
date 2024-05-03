@@ -3,7 +3,7 @@ title = 'non-python'
 date = 2023-03-25T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '0924'
+url = '1924'
 +++
 Non-Python (kode pendukung)
 <!--more-->

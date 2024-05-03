@@ -4,7 +4,7 @@ date = 2024-04-14T21:42:00+07:00
 draft = false
 math = true
 tags = ['machine learning', 'datasets']
-url = '1010'
+url = '2010'
 authors = ['viridi']
 +++
 Finding machine learning datasets <!--more-->

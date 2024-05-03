@@ -4,7 +4,7 @@ date = 2024-02-20T05:35:00+07:00
 draft = false
 tags = ['fi8094']
 math = true
-url = '0959'
+url = '1959'
 +++
 Numerical pre-study on noise-vibration spreading near a power plant
 <!--more-->

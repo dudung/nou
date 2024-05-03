@@ -4,7 +4,7 @@ date = 2024-05-02T05:28:00+07:00
 draft = false
 math = true
 tags = ['llm', 'llama', 'python']
-url = '1028'
+url = '2028'
 authors = ['viridi']
 +++
 Find right resource to install Llama locallya <!--more-->

@@ -3,7 +3,7 @@ title = 'random number mc'
 date = 2022-09-23T11:00:00+07:00
 draft = false
 tags = ['fi4002']
-url = '0938'
+url = '1938'
 +++
 Bilangan acak dan metode Monte Carlo: Pengenalan dan pemanfaatan sederhananya dalam fisika
 <!--more-->

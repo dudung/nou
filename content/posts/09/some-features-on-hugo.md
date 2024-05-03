@@ -4,7 +4,7 @@ date = 2024-03-01T16:14:00+07:00
 draft = false
 tags = ['if3110']
 math = true
-url = '0978'
+url = '1978'
 +++
 Some features on Hugo: JavaScript enhanced static web page.
 <!--more--> 

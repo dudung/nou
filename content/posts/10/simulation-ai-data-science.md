@@ -4,7 +4,7 @@ date = 2024-04-29T08:10:00+07:00
 draft = false
 math = true
 tags = ['simulation', 'artificial intelligence', 'data science']
-url = '1025'
+url = '2025'
 authors = ['viridi']
 +++
 What can relate simulation, artificial intelligence, and data science <!--more-->

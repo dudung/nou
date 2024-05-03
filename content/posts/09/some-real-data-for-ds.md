@@ -3,7 +3,7 @@ title = 'some real data for ds'
 date = 2024-03-18T03:21:00+07:00
 draft = false
 tags = ['mr4103']
-url = '0979'
+url = '1979'
 +++
 ID province data: Real data for data science learning
 <!--more-->

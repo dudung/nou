@@ -4,7 +4,7 @@ date = 2024-04-10T21:28:00+07:00
 draft = false
 math = true
 tags = ['random', 'html', 'css', 'js']
-url = '1006'
+url = '2006'
 authors = ['viridi']
 +++
 Random number for CSS and HTML using JS <!--more-->

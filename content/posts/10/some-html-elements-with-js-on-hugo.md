@@ -4,7 +4,7 @@ date = 2024-04-11T05:19:00+07:00
 draft = false
 math = true
 tags = ['hugo', 'html', 'css', 'js']
-url = '1007'
+url = '2007'
 authors = ['viridi']
 +++
 Display HTML elements on Hugo with JS <!--more-->

@@ -3,7 +3,7 @@ title = 'intro pandas dataframe'
 date = 2024-02-23T15:00:00+07:00
 draft = false
 tags = ['mr4103']
-url = '0967'
+url = '1967'
 +++
 Intro to pandas DataFrame: Create, access, read/write from/to file
 <!--more-->

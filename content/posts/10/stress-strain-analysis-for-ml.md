@@ -4,7 +4,7 @@ date = 2024-04-18T03:36:00+07:00
 draft = false
 math = true
 tags = ['stress-strain', 'elasticity', 'machine learning']
-url = '1014'
+url = '2014'
 authors = ['viridi', 'widayani']
 +++
 Short intro about stress-stress analysis for machine learning <!--more-->

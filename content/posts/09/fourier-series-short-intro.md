@@ -4,7 +4,7 @@ date = 2024-03-09T19:43:00+07:00
 draft = false
 tags = ['fi6004']
 math = true
-url = '0965'
+url = '1965'
 +++
 Fourier series short intro: Proofs of some integral identities.
 <!--more-->

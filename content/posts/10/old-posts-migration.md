@@ -4,7 +4,7 @@ date = 2024-04-25T09:02:00+07:00
 draft = false
 math = true
 tags = ['posts migration', 'jekyll', 'hugo']
-url = '1021'
+url = '2021'
 authors = ['viridi']
 +++
 Incomplete documentation for manual migration of old posts <!--more-->

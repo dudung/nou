@@ -2,7 +2,7 @@
 title = 'pura mangkunegaran physics'
 date = 2024-03-02T09:43:00+07:00
 draft = false
-url = '0974'
+url = '1974'
 +++
 Some Physics in Pura Mangkunegaran
 <!--more-->

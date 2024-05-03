@@ -4,7 +4,7 @@ date = 2024-02-27T06:26:00+07:00
 draft = false
 tags = ['fi8094']
 math = true
-url = '0960'
+url = '1960'
 +++
 Noise and vibration: A pre-study: Continuing previous brief proposal
 <!--more-->

@@ -3,7 +3,7 @@ title = 'data and data-something'
 date = 2024-03-24T21:44:00+07:00
 draft = false
 tags = ['mr4103']
-url = '0990'
+url = '1990'
 +++
 Data and data-something: Some terms related to data
 <!--more-->

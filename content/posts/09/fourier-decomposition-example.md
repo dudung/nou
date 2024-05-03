@@ -4,7 +4,7 @@ date = 2024-03-10T12:22:00+07:00
 draft = false
 tags = ['fi6004']
 math = true
-url = '0964'
+url = '1964'
 +++
 Fourier decomposition example: Three terms -- constant, cosine, sine.
 <!--more-->
