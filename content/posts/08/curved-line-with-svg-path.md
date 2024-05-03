@@ -2,7 +2,7 @@
 title = 'Curved line with SVG path'
 date = 2024-01-13T05:08:59+07:00
 draft = false
-url = '0812'
+url = '1812'
 +++
 Draw curved line using [path](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths) element in [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG).
 <!--more-->

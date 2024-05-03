@@ -4,7 +4,7 @@ date = 2024-03-19T02:58:00+07:00
 draft = false
 tags = ['fi4002']
 math = true
-url = '1982'
+url = '1984'
 +++
 Numerical integration examples: Some Riemann sums
 <!--more-->

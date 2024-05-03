@@ -3,7 +3,7 @@ title = 'Structural vibration refs'
 date = 2024-02-01T20:42:56+07:00
 draft = false
 tags = ['literature']
-url = '0828'
+url = '1828'
 +++
 References while learning about structural vibration.
 <!--more-->

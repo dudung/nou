@@ -3,7 +3,7 @@ title = 'Web apps and services tasks'
 date = 2024-01-24T08:15:51+07:00
 draft = false
 tags = ['course']
-url = '0826'
+url = '1826'
 +++
 Additional tasks for course about web apps and service.
 <!--more-->

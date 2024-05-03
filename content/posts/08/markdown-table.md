@@ -3,7 +3,7 @@ title = 'Markdown table'
 date = 2024-01-11T06:43:12+07:00
 draft = false
 tags = ['hugo']
-url = '0804'
+url = '1804'
 +++
 Try code for Markdown table.
 <!--more-->

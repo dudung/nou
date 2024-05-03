@@ -3,7 +3,7 @@ title = 'midterm preparation 2022-2'
 date = 2023-05-20T16:00:00+07:00
 draft = false
 tags = ['sk5003']
-url = '1920'
+url = '1946'
 +++
 Pesiapan ujian tengah semester
 <!--more-->

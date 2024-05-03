@@ -4,7 +4,7 @@ date = 2024-02-14T18:06:00+07:00
 draft = false
 tags = ['fi4002']
 math = true
-url = '1947'
+url = '1958'
 +++
 Collection of information about noise and vibration
 <!--more-->

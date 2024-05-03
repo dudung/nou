@@ -3,7 +3,7 @@ title = 'electric field straight finite wire'
 date = 2021-02-26T07:00:00+07:00
 draft = false
 tags = ['fi1201']
-url = '1908'
+url = '1904'
 +++
 Medan listrik di sisi kawat lurus bermuatan seragam
 <!--more-->

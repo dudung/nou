@@ -3,7 +3,7 @@ title = 'scattering cross section sphere ml'
 date = 2024-03-01T14:49:00+07:00
 draft = false
 tags = ['fi6094']
-url = '1977'
+url = '1973'
 +++
 Scattering cross section of linear spheres arrangements
 <!--more-->

@@ -3,7 +3,7 @@ title = 'intro mc integration'
 date = 2024-03-28T04:04:00+07:00
 draft = false
 tags = ['fi4002']
-url = '1991'
+url = '1992'
 +++
 Monte Carlo Integration: A very short intro with examples
 <!--more-->

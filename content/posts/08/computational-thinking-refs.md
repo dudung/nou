@@ -3,7 +3,7 @@ title = 'Computational thinking refs'
 date = 2024-02-01T14:36:30+07:00
 draft = false
 tags = ['literature']
-url = '0827'
+url = '1827'
 +++
 Refs for learning computational thinking topic
 <!--more-->

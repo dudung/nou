@@ -3,7 +3,7 @@ title = 'Refs for scientific writing'
 date = 2024-02-02T20:10:16+07:00
 draft = false
 tags = ['literature']
-url = '0831'
+url = '1831'
 +++
 Learning scientific writing accordingly with some refs.
 <!--more-->

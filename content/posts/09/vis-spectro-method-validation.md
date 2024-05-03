@@ -3,7 +3,7 @@ title = 'vis-spectro method validation'
 date = 2022-10-14T13:00:00+07:00
 draft = false
 tags = ['fi8094']
-url = '1953'
+url = '1929'
 +++
 Peluang Inovasi untuk Uji Kompetensi Validasi Metode Spektrofotometri Visibel (GENESYS Spectrophotometer)
 <!--more-->

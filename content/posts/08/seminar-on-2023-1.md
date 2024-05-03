@@ -3,7 +3,7 @@ title = 'Seminar on 2023-1'
 date = 2024-01-15T18:45:22+07:00
 draft = false
 tags = ['users']
-url = '0818'
+url = '1818'
 +++
 List of seminar on 2023-1 semester.
 <!--more-->

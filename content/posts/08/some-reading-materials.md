@@ -3,7 +3,7 @@ title = 'Some reading materials'
 date = 2024-01-18T07:21:41+07:00
 draft = false
 tags = ['literature']
-url = '0820'
+url = '1820'
 +++
 Target books or journals to read in near future, hopefully.
 <!--more-->

@@ -3,7 +3,7 @@ title = 'Computational science literature'
 date = 2024-01-24T06:01:27+07:00
 draft = false
 tags = ['literature']
-url = '0825'
+url = '1825'
 +++
 Some literature in studying computational science.
 <!--more-->

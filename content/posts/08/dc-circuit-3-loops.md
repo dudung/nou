@@ -3,7 +3,7 @@ title = 'DC circuit 3 loops'
 date = 2024-01-14T17:12:38+07:00
 draft = false
 math = true
-url = '0816'
+url = '1816'
 +++
 Analyze DC circuit with 3 loops.
 <!--more-->

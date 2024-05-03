@@ -3,7 +3,7 @@ title = 'Generate data for circle'
 date = 2024-01-12T16:38:01+07:00
 draft = false
 tags = ['js']
-url = '0811'
+url = '1811'
 +++
 Generate data points for circle using Vanilla JS.
 <!--more-->

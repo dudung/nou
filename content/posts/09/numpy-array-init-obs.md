@@ -4,7 +4,7 @@ date = 2024-03-19T10:32:00+07:00
 draft = false
 tags = ['fi6004']
 math = true
-url = '1983'
+url = '1985'
 +++
 NumPy array and observation: Some initialization and sampling examples
 <!--more-->

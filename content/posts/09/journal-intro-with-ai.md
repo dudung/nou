@@ -3,7 +3,7 @@ title = 'journal intro with ai'
 date = 2024-03-27T22:15:00+07:00
 draft = false
 tags = ['nt6094']
-url = '1993'
+url = '1991'
 +++
 Journal introduction with AI: AI-assisted content creating
 <!--more-->

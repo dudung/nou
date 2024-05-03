@@ -20,6 +20,7 @@
     {{ $n2 := add $n1 (index $num 2) }}
     {{ $n3 := add $n2 (index $num 3) }}
     
+    {{/* range sort .Site.RegularPages ".Params.url" "desc" */}}
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
         {{ if eq $index (sub $max 1) }}
           <code style="color: #faa;">nou(&infin;):</code> 
@@ -48,6 +49,8 @@
         {{ if eq $index $n3 }}
           <br><br><code style="color: #faa;">to(26):</code> 
         {{ end }}
+        
+        <!--br-->
         
         {{ $index = sub $index 1 }}
         

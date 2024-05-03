@@ -3,7 +3,7 @@ title = 'microfluidic channel droplet'
 date = 2024-02-27T15:28:00+07:00
 draft = false
 tags = ['nt6007']
-url = '1971'
+url = '1970'
 +++
 Droplet creation for microfluidic channel.
 <!--more-->

@@ -3,7 +3,7 @@ title = 'Digital image processing refs'
 date = 2024-02-02T14:36:38+07:00
 draft = false
 tags = ['literature']
-url = '0830'
+url = '1830'
 +++
 Refs for learning digital image processing.
 <!--more-->

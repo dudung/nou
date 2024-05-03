@@ -3,7 +3,7 @@ title = 'unja metadata lecture'
 date = 2023-10-11T08:00:00+07:00
 draft = false
 tags = ['ku4078']
-url = '1952'
+url = '1949'
 +++
 Metadata for Animal Science: Short introduction and some possible applications
 <!--more-->

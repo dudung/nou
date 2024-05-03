@@ -3,7 +3,7 @@ title = 'intro desc stats'
 date = 2024-02-26T17:51:00+07:00
 draft = false
 tags = ['mr4103']
-url = '1966'
+url = '1967'
 +++
 Descriptive statistics: An intro
 <!--more-->

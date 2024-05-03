@@ -4,7 +4,7 @@ date = 2024-03-26T09:42:00+07:00
 draft = false
 tags = ['fi6004']
 math = true
-url = '1989'
+url = '1990'
 +++
 Discrete Fourier Transform: Create your onw code
 <!--more-->

@@ -3,7 +3,7 @@ title = 'journal indexing, predatory, oa, quartil'
 date = 2022-09-15T09:00:00+07:00
 draft = false
 tags = ['nt6094']
-url = '1917'
+url = '1921'
 +++
 Indeks jurnal, jurnal pemangsa,akses terbuka, sitasi, kuartil
 <!--more-->

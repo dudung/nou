@@ -3,7 +3,7 @@ title = 'sps-pln ds energy'
 date = 2022-10-20T11:00:00+07:00
 draft = false
 tags = ['ku4078']
-url = '1948'
+url = '1930'
 +++
 Magister Data Sains Pengelolaan Energi
 <!--more-->

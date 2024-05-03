@@ -3,7 +3,7 @@ title = 'point mass dynamics part 1'
 date = 2022-09-05T09:00:00+07:00
 draft = false
 tags = ['fi1101']
-url = '1929'
+url = '1916'
 +++
 Dinamika Benda Titik 1
 <!--more-->

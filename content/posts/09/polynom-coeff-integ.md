@@ -4,7 +4,7 @@ date = 2024-03-25T16:37:00+07:00
 draft = false
 tags = ['fi4002']
 math = true
-url = '1988'
+url = '1989'
 +++
 Integration of polynomial: Coefficients operation
 <!--more-->

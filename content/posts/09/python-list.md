@@ -3,7 +3,7 @@ title = 'python list'
 date = 2024-02-18T17:44:00+07:00
 draft = false
 tags = ['mr4103']
-url = '1975'
+url = '1959'
 +++
 Python List
 <!--more-->

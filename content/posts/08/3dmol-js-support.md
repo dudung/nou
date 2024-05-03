@@ -2,7 +2,7 @@
 title = '3Dmol.js support'
 date = 2024-01-13T19:49:24+07:00
 draft = false
-url = '0814'
+url = '1814'
 +++
 Add support to view molecules with [3Dmol.js](https://3dmol.csb.pitt.edu/doc/).
 <!--more-->

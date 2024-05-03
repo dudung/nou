@@ -2,7 +2,7 @@
 title = 'Scatter plot with Chart.js'
 date = 2024-01-12T08:18:18+07:00
 draft = false
-url = '0810'
+url = '1810'
 +++
 Create shortcode for scatter plot with [Chart.js](https://www.chartjs.org/).
 <!--more-->

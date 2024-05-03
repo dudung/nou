@@ -3,7 +3,7 @@ title = 'intro to fft with python'
 date = 2024-02-28T19:43:00+07:00
 draft = false
 tags = ['fi6004']
-url = '1985'
+url = '1971'
 +++
 Fast Fourier Transform in Python
 <!--more-->

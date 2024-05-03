@@ -2,7 +2,7 @@
 title = 'Questions on web apps'
 date = 2024-01-15T07:38:05+07:00
 draft = false
-url = '0817'
+url = '1817'
 +++
 Some questions to motivate the learning on web apps.
 <!--more-->

@@ -4,7 +4,7 @@ date = 2024-02-02T05:10:20+07:00
 draft = false
 tags = ['vibration']
 math = true
-url = '0829'
+url = '1829'
 +++
 Some equations related to propagation of vibration as wave.
 <!--more-->
