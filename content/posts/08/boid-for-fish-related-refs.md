@@ -2,6 +2,7 @@
 title = 'Boid for fish related refs'
 date = 2024-01-16T18:42:18+07:00
 draft = false
+url = '0819'
 +++
 Some might-related refs for boid application on fish motion.
 <!--more-->

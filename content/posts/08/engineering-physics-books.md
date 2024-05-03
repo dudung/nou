@@ -3,6 +3,7 @@ title = 'Engineering physics books'
 date = 2024-02-03T05:13:33+07:00
 draft = false
 tags = ['literature']
+url = '0832'
 +++
 Books for learning engineering physics.
 <!--more-->

@@ -3,6 +3,7 @@ title = 'Computational science curriculum'
 date = 2024-02-05T16:53:54+07:00
 draft = false
 tags = ['meeting']
+url = '0835'
 +++
 Advancement process of computational science curriculum.
 <!--more-->

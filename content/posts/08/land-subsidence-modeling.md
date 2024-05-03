@@ -3,6 +3,7 @@ title = 'Land subsidence modeling'
 date = 2024-01-22T13:05:48+07:00
 draft = false
 tags = ['users']
+url = '0822'
 +++
 Study on land subsidence with physical and computational models.
 <!--more-->

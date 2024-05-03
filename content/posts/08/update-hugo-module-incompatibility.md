@@ -3,6 +3,7 @@ title = 'Update Hugo due to module incompatibility'
 date = 2024-01-12T07:35:11+07:00
 draft = false
 tags = ['hugo']
+url = '0809'
 +++
 Update Hugo while creating `scatter.html` shortcode.
 <!--more-->

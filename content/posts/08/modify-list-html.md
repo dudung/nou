@@ -3,6 +3,7 @@ title = 'Modify list.html'
 date = 2024-01-11T06:58:48+07:00
 draft = false
 tags = ['hugo']
+url = '0805'
 +++
 Remove summary from list of posts.
 <!--more-->

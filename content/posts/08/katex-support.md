@@ -4,6 +4,7 @@ date = 2024-01-11T05:18:51+07:00
 draft = false
 math = true
 tags = ['hugo']
+url = '0802'
 +++
 Add support for displaying LaTeX equations with [KaTeX](https://katex.org/).
 <!--more-->

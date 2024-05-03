@@ -3,6 +3,7 @@ title = 'Data science literature'
 date = 2024-01-23T07:07:40+07:00
 draft = false
 tags = ['Literature']
+url = '0824'
 +++
 Literatures about data science and related fields.
 <!--more-->

@@ -12,22 +12,38 @@
     </div>
     
     {{ $index := sub (len (.Site.RegularPages)) 1 }}
-    {{ $n0 := 2 }}
-    {{ $n1 := add $n0 35 }}
-    {{ $n2 := add $n1 93 }}
+    
+    {{ $num := slice 2 35 93 26 }}
+    {{ $n0 := index $num 0 }}
+    {{ $n1 := add $n0 (index $num 1) }}
+    {{ $n2 := add $n1 (index $num 2) }}
+    {{ $n3 := add $n2 (index $num 3) }}
     
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
         <code>
-          <x style="color: #aaa;">{{ .Params.url }}.{{ printf "%04d" $index }}</x>
+          <x style="color: #aaa;">{{ .Params.url }}</x>
+          {{/* .{{ printf "%04d" $index */}}
           {{ dateFormat "02-Jan-2006" .Date }}
-        </code>-
+        </code>
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{/* .Summary */}}
         
-        {{ if or (eq $index $n0) (eq $index $n1) (eq $index $n2) }}
-          <br><br>
+        {{ if eq $index $n0 }}
+          <br><br><code style="color: #faa;">&bull;(2):</code>
         {{ end }}
 
+        {{ if eq $index $n1 }}
+          <br><br><code style="color: #faa;">blank(35):</code>
+        {{ end }}
+
+        {{ if eq $index $n2 }}
+          <br><br><code style="color: #faa;">o(93):</code>
+        {{ end }}
+
+        {{ if eq $index $n3 }}
+          <br><br><code style="color: #faa;">to(26):</code> 
+        {{ end }}
+        
         {{ $index = sub $index 1 }}
         
     {{ end }}

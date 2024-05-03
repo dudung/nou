@@ -3,6 +3,7 @@ title = 'Info from datablock'
 date = 2024-01-11T18:56:49+07:00
 draft = false
 tags = ['hugo']
+url = '0808'
 +++
 Display scatter chart using Chart.js.
 <!--more-->
