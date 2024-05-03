@@ -17,7 +17,8 @@ An internal, unofficial meeting has been conducted about mangrove in Bahrain [^d
 ## serp
 SERP produces links for further investigation, especially the organic ones [^dean_2023]. Some links are given as 
 
-1. Bahrain's goal to increase mangrove trees discussed \ url https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2BDiNgl4a6IJjroX8TzgLSze0%3D
+1. Bahrain's goal to increase mangrove trees discussed \
+url https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2BDiNgl4a6IJjroX8TzgLSze0%3D
 2. 20,000 mangroves to be planted in Ras Hayyan \
 url https://www.bna.bh/en/20000mangrovestobeplantedinRasHayyan.aspx?cms=q8FmFJgiscL2fwIzON1%2BDtvf1wLk%2F%2FbKJfEgmUOJPOo%3D
 3. Bahrain plants 749,000 Mangrove seedlings, surpassing annual target by 163% \
