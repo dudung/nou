@@ -35,22 +35,20 @@
         {{/* .Summary */}}
         
         {{ if eq $index $n0 }}
-          <br><br><code style="color: #faa;">&alpha;(2):</code>
+          <br><br><code style="color: #faa;">&alpha;({{ index $num 0 }}):</code>
         {{ end }}
 
         {{ if eq $index $n1 }}
-          <br><br><code style="color: #faa;">blank(35):</code>
+          <br><br><code style="color: #faa;">blank({{ index $num 1 }}):</code>
         {{ end }}
 
         {{ if eq $index $n2 }}
-          <br><br><code style="color: #faa;">o(93):</code>
+          <br><br><code style="color: #faa;">o({{ index $num 2 }}):</code>
         {{ end }}
 
         {{ if eq $index $n3 }}
-          <br><br><code style="color: #faa;">to(26):</code> 
+          <br><br><code style="color: #faa;">to({{ index $num 3 }}):</code> 
         {{ end }}
-        
-        <!--br-->
         
         {{ $index = sub $index 1 }}
         
