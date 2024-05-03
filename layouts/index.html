@@ -15,11 +15,11 @@
     {{ $n0 := 2 }}
     {{ $n1 := add $n0 93 }}
     
-    {{ range .Site.RegularPages }}
+    {{ range sort .Site.RegularPages ".Params.url" "desc" }}
         <code>
-          <b style="color: #ccc;">{{ $index }}</b>
+          <x style="color: #aaa;">{{ .Params.url }}.{{ printf "%04d" $index }}</x>
           {{ dateFormat "02-Jan-2006" .Date }}
-        </code>
+        </code>-
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{/* .Summary */}}
         
