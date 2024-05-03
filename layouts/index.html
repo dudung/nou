@@ -16,7 +16,10 @@
     {{ $n1 := add $n0 93 }}
     
     {{ range .Site.RegularPages }}
-        <code><b style="color: #ccc;">{{ $index }}</b> {{ dateFormat "02-Jan-2006" .Date }}</code>
+        <code>
+          <b style="color: #ccc;">{{ $index }}</b>
+          {{ dateFormat "02-Jan-2006" .Date }}
+        </code>
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{/* .Summary */}}
         
