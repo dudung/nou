@@ -12,6 +12,15 @@ entry page for elemen kekosongan, an unfinished hexalogy by Nein Arimasen <!--mo
 
 ## stories
 + `09` Elemen kekosongan [^arimasen_2007a]
+  - Kisah Rimba dan Gunung Hijau [`0402`](../0402)
+  - Perubahan-Perubahan [`0403`](../0403)
+  - Hakim Haus Darah [`0404`](../0404)
+  - Penjaga Keseimbangan [`0405`](../0405)
+  - Yang Kembali dan Yang Tumbuh [`0406`](../0406)
+  - Tato [`0407`](../0407)
+  - Orang-orang Abadi [`0408`](../0408)
+  - Menari Bersama Air [`0409`](../0409)
+  - Kisah-kisah antar Ruang dan Waktu [`0410`](../0410)
 + `32` Seratus Hari [^arimasen_2007b]
 + `13` Gua Susun Utara [^arimasen_2007c]
 + `01` Penjara Kokoh [^arimasen_2007d]
