@@ -1,5 +1,5 @@
 +++
-title = 'elemen kekosongan'
+title = 'reposting elemen kekosongan'
 date = 2024-05-04T16:18:00+07:00
 draft = false
 math = true
