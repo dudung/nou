@@ -48,25 +48,34 @@ entry page for elemen kekosongan, an unfinished hexalogy by Nein Arimasen <!--mo
   - Orang-orang yang Hilang [`0434`](../0434)
   - Menggali Lubang Masing-masing [`0435`](../0435)
   - Malam Bulan Penuh [`0436`](../0436)
-  - Siasat Menepuk Beberapa Lalat Sekaligus [`0437`](../047)
+  - Siasat Menepuk Beberapa Lalat Sekaligus [`0437`](../0437)
   - Dipsa Sanguini [`0438`](../0438)
   - Guru Kencing Berdiri Murid Kencing Berlari [`0439`](../0439)
   - Panggung Sandiwara [`0440`](../0440)
   - Pesan Perpisahan [`0441`](../0441)
   - Penutup [`0442`](../0442)
 + `13` Gua Susun Utara [^arimasen_2007c]
+  - Penghuni Baru Lorong Utara [`0443`](../0443)
+  - Tugas yang Gagal [`0444`](../0444)
+  - Sebuah Ramalan Gendeng [`0445`](../0445)
+  - Menyebarkan Benih [`0446`](../0446)
+  - Pengangkatan Saudara [`0447`](../0447)
+  - Wanita Rambut Emas [`0448`](../0448)
+  - Perkumpulan Para Lumbung [`0449`](../0449)
+  - Rencana Kecil Lo-Kai [`0450`](../0450)
+  - Rahasia Masa Kecil [`0451`](../0451)
+  - Darah Naga [`0452`](../0452)
+  - Siasat Lumbung Palsu [`0453`](../0453)
+  - Pelupa atau Penipu atau Lainnya [`0454`](../0454)
+  - Siasat Lawan Siasat [`0455`](../0455)
 + `01` Penjara Kokoh [^arimasen_2007d]
+  - Di Gurun Besar [`0456`](../0456)
 + `03` Coretan Silang [^arimasen_2007e]
+  - Tamu di Pagi Hari [`0457`](../0457)
+  - Dendam Masa Lalu [`0458`](../0458)
+  - Dua Lawan Satu [`0459`](../0459)
 + `01` Celoteh Dingin [^arimasen_2007f]
-
-
-
-
-
-
-
-
-
+  - Dingin [`0460`](../0460)
 
 
 ## refs

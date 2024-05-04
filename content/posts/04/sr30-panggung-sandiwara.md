@@ -4,7 +4,7 @@ date = 2007-07-04T16:06:00+07:00
 draft = false
 math = true
 tags = ['ek', 'seratus hari']
-url = '0441'
+url = '0440'
 authors = ['arimasen']
 +++
 seratus hari 30/32 <!--more-->
