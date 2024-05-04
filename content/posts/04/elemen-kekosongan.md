@@ -16,16 +16,57 @@ entry page for elemen kekosongan, an unfinished hexalogy by Nein Arimasen <!--mo
   - Perubahan-Perubahan [`0403`](../0403)
   - Hakim Haus Darah [`0404`](../0404)
   - Penjaga Keseimbangan [`0405`](../0405)
-  - Yang Kembali dan Yang Tumbuh [`0406`](../0406)
+  - Yang Kembali dan yang Tumbuh [`0406`](../0406)
   - Tato [`0407`](../0407)
   - Orang-orang Abadi [`0408`](../0408)
   - Menari Bersama Air [`0409`](../0409)
   - Kisah-kisah antar Ruang dan Waktu [`0410`](../0410)
 + `32` Seratus Hari [^arimasen_2007b]
+  - Buku-buku Baru [`0411`](../0411)
+  - Kebaikan Sahabat dan Seorang Tua [`0412`](../0412)
+  - Harapan Orang Tua [`0413`](../0413)
+  - Pertemuan Kedua [`0414`](../0414)
+  - Di Tepi Hutan [`0415`](../0415)
+  - Menanti Mata Berkedip [`0416`](../0416)
+  - Tamu dari Jauh [`0417`](../0417)
+  - Kitab Kuno Bersandi [`0418`](../0418)
+  - Pertemuan Terakhir [`0419`](../0419)
+  - Menghormati Rahasia Orang Lain [`0420`](../0420)
+  - Belajar Beladiri Bersama [`0421`](../0421)
+  - Pertarungan di Malam Hari [`0422`](../0422)
+  - Sama-sama Terluka [`0423`](../0423)
+  - Masa Seratus Hari [`0424`](../0424)
+  - Berangkat Bermalam di Hutan [`0425`](../0425)
+  - Malam di Tengah Hutan [`0426`](../0426)
+  - Air Lawan Api [`0427`](../0427)
+  - Mengendalikan Air [`0428`](../0428)
+  - Sebuah Pembicaraan [`0429`](../0429)
+  - Menyelaraskan Titik Terendah [`0430`](../0430)
+  - Pembicaraan Menjelang Pagi [`0431`](../0431)
+  - Memanfaatkan Kehidupan Lain [`0432`](../0432)
+  - Air Kehidupan [`0433`](../0433)
+  - Orang-orang yang Hilang [`0434`](../0434)
+  - Menggali Lubang Masing-masing [`0435`](../0435)
+  - Malam Bulan Penuh [`0436`](../0436)
+  - Siasat Menepuk Beberapa Lalat Sekaligus [`0437`](../047)
+  - Dipsa Sanguini [`0438`](../0438)
+  - Guru Kencing Berdiri Murid Kencing Berlari [`0439`](../0439)
+  - Panggung Sandiwara [`0440`](../0440)
+  - Pesan Perpisahan [`0441`](../0441)
+  - Penutup [`0442`](../0442)
 + `13` Gua Susun Utara [^arimasen_2007c]
 + `01` Penjara Kokoh [^arimasen_2007d]
 + `03` Coretan Silang [^arimasen_2007e]
 + `01` Celoteh Dingin [^arimasen_2007f]
+
+
+
+
+
+
+
+
+
 
 
 ## refs
