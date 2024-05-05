@@ -2,6 +2,7 @@
 title = 'hasil pengukuran bilirubin'
 date = 2011-05-10T03:40:47+00:00
 draft = false
+authors = ['viridi']
 url = '0508'
 +++
 WordPress post 8/16 <!--more-->

@@ -2,6 +2,7 @@
 title = 'pheromone semut: membantu atau menyesatkan'
 date = 2008-08-23T10:25:13+00:00
 draft = false
+authors = ['viridi']
 url = '0503'
 +++
 WordPress post 3/16 <!--more-->

@@ -2,6 +2,7 @@
 title = 'torsi penghambat gerak menggelinding'
 date = 2010-04-17T12:09:12+00:00
 draft = false
+authors = ['viridi']
 url = '0504'
 +++
 WordPress post 4/16 <!--more-->

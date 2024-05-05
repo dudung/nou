@@ -2,6 +2,7 @@
 title = 'snjpf-fmipa-uny dan cari pasir'
 date = 2018-10-06T01:56:17+00:00
 draft = false
+authors = ['viridi']
 url = '0513'
 +++
 WordPress post 13/16 <!--more-->

@@ -2,6 +2,7 @@
 title = 'empat baris empat kata'
 date = 2018-10-07T07:26:56+00:00
 draft = false
+authors = ['viridi']
 url = '0514'
 +++
 WordPress post 14/16 <!--more-->

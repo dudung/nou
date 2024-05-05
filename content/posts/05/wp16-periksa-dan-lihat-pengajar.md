@@ -2,6 +2,7 @@
 title = 'periksa dan lihat pengajar'
 date = 2018-12-13T07:39:21+00:00
 draft = false
+authors = ['viridi']
 url = '0516'
 +++
 WordPress post 16/16 <!--more-->

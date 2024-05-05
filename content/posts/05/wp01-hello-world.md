@@ -2,6 +2,7 @@
 title = 'Hello world!'
 date = 2007-12-27T06:09:38+00:00
 draft = false
+authors = ['viridi']
 url = '0501'
 +++
 WordPress post 1/16 <!--more-->

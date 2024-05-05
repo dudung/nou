@@ -2,6 +2,7 @@
 title = 'miskonsepsi dalam fisika'
 date = 2008-08-05T08:34:39+00:00
 draft = false
+authors = ['viridi']
 url = '0502'
 +++
 WordPress post 2/16 <!--more-->
@@ -24,4 +25,4 @@ Terkait dengan hal tersebut para pengajar, dalam hal ini guru dan dosen, perlu m
 
 Sebagai penutup, marilah kita kembali ke peluru pistol Angelina Jolie yang dapat melengkung secara horisontal dalam film Wanted, yang mengawali tulisan ini. Sebuah benda yang jumlah gaya-gayanya nol hanya akan dapat bergerak lurus beraturan atau diam. Dalam hal ini, peluru pistol bergerak melengkung, maka sesuai dengan hukum pertama Newton tersebut harus ada gaya yang menyebabkan peluru berbelok. Pada peluru meriam yang melengkung ke bawah, gaya berat peluru tersebutlah yang menyebabkan ia melengkung. Lalu pada peluru yang ditembakkan oleh Angelina Jolie gaya apakah? Bila adegan tersebut diulang perlahan, dapat dilihat bahwa sang sutradara ingin menekankan bahwa lengkungan jalur peluru yang terjadi disebabkan oleh cara menembakkannya yang memiringkan serta sedikit mengayunkan pistol sedemikian rupa sehingga mempengaruhi arah jalannya peluru. Terdapat kesalahan konsep di sini, yaitu bahwa pengaruh tersebut hanya berlaku pada awal peluru ditembakkan dan keluar dari moncong pistol. Saat peluru sudah terbang bebas di udara, gaya yang diberikan oleh tangan yang menggenggam pistol sudah tidak lagi berlaku. Jadi peluru harusnya terbang lurus, karena tidak ada gaya yang berfungsi untuk membelokkan peluru.
 
-Jadi seperti di tuliskan dalam sebuah halaman web (http://www.intuitor. com/moviephysics/), bila kita peduli dan kuatir akan penyebaran prekonsepsi fisika yang salah, mungkin perlu diusulkan adanya rating film-film terkait dengan konsep-konsep fisika yang digunakan. Mau tidak mau, konsep-konsep tersebut akan membekas pada yang menontonnya, dan pada suatu saat akan menjadi bahaya laten apabila konsep yang disajikan jelas-jelas keliru. Jadi tidak hanya kekerasan dan seks yang perlu disensor dalam sebuah film, pada saatnya mungkin konsep-konsep sains yang ada perlu juga diperhatikan bahayanya.
+Jadi seperti di tuliskan dalam sebuah halaman web ([http://www.intuitor.com/moviephysics/](http://www.intuitor.com/moviephysics/)), bila kita peduli dan kuatir akan penyebaran prekonsepsi fisika yang salah, mungkin perlu diusulkan adanya rating film-film terkait dengan konsep-konsep fisika yang digunakan. Mau tidak mau, konsep-konsep tersebut akan membekas pada yang menontonnya, dan pada suatu saat akan menjadi bahaya laten apabila konsep yang disajikan jelas-jelas keliru. Jadi tidak hanya kekerasan dan seks yang perlu disensor dalam sebuah film, pada saatnya mungkin konsep-konsep sains yang ada perlu juga diperhatikan bahayanya.

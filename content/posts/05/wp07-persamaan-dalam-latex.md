@@ -2,6 +2,7 @@
 title = 'persamaan dalam latex'
 date = 2011-04-26T00:27:29+00:00
 draft = false
+authors = ['viridi']
 url = '0507'
 math = true
 +++
