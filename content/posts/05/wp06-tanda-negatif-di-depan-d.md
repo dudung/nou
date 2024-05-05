@@ -3,6 +3,7 @@ title = 'tanda negatif di depan dλ'
 date = 2011-04-14T07:32:05+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0506'
 +++
 WordPress post 6/16 <!--more-->

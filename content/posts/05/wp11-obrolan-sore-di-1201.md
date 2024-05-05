@@ -3,6 +3,7 @@ title = 'obrolan sore di 1201'
 date = 2011-05-26T00:48:26+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0511'
 +++
 WordPress post 11/16 <!--more-->

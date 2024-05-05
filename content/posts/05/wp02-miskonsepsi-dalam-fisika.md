@@ -3,6 +3,7 @@ title = 'miskonsepsi dalam fisika'
 date = 2008-08-05T08:34:39+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0502'
 +++
 WordPress post 2/16 <!--more-->

@@ -3,6 +3,7 @@ title = 'panjang dan waktu proper'
 date = 2011-04-13T05:28:52+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0505'
 +++
 WordPress post 5/16 <!--more-->

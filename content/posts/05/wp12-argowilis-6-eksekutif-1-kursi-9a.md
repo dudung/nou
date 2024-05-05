@@ -3,6 +3,7 @@ title = 'argowilis 6 eksekutif 1 kursi 9a'
 date = 2018-10-05T01:37:09+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0512'
 +++
 WordPress post 12/16 <!--more-->

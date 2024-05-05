@@ -3,6 +3,7 @@ title = 'penjumalahan, perkalian, dan pangkat'
 date = 2011-05-11T01:29:46+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0509'
 math = true
 +++

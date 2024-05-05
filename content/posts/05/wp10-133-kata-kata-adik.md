@@ -3,6 +3,7 @@ title = '133 kata-kata adik'
 date = 2011-05-13T00:25:17+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0510'
 +++
 WordPress post 10/16 <!--more-->

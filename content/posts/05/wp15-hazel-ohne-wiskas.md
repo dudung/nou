@@ -3,6 +3,7 @@ title = 'hazel ohne wiskas'
 date = 2018-12-12T14:13:14+00:00
 draft = false
 authors = ['viridi']
+tags = ['wp']
 url = '0515'
 +++
 WordPress post 15/16 <!--more-->
