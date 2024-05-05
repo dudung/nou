@@ -116,6 +116,8 @@ figure.authors {
 
 .tocsec {
   display: inline;
+  margin-left: 10px;
+  border-left: 2px solid green;
 }
 
 .tocseccol {
