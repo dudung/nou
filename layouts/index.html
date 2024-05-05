@@ -14,18 +14,22 @@
     {{ $max := len .Site.RegularPages }}
     {{ $index :=  sub $max 1 }}
     
-    {{ $num := slice 2 60 16 35 93 26 }}
+    {{ $num := slice 2 60 16 35 10 93 26 }}
     {{ $n0 := index $num 0 }}
     {{ $n1 := add $n0 (index $num 1) }}
     {{ $n2 := add $n1 (index $num 2) }}
     {{ $n3 := add $n2 (index $num 3) }}
     {{ $n4 := add $n3 (index $num 4) }}
     {{ $n5 := add $n4 (index $num 5) }}
+    {{ $n6 := add $n5 (index $num 6) }}
     
     {{/* range sort .Site.RegularPages ".Params.url" "desc" */}}
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
+        
         {{ if eq $index (sub $max 1) }}
-          <code style="color: #faa;">nou(&infin;):</code> 
+          <div class="tocsec">
+            <code class="tocseccol">nou(&infin;):</code> 
+          </div>
         {{ end }}
         
         <code>
@@ -37,27 +41,45 @@
         {{/* .Summary */}}
         
         {{ if eq $index $n0 }}
-          <br><br><code style="color: #faa;">&alpha;({{ index $num 0 }}):</code>
+          <div class="tocsec">
+            <code class="tocseccol">&alpha;({{ index $num 0 }}):</code>
+          </div>
         {{ end }}
 
         {{ if eq $index $n1 }}
-          <br><br><code style="color: #faa;">ek({{ index $num 1 }}):</code>
+          <div class="tocsec">
+            <code class="tocseccol">ek({{ index $num 1 }}):</code>
+          </div>
         {{ end }}
         
         {{ if eq $index $n2 }}
-          <br><br><code style="color: #faa;">wp({{ index $num 2 }}):</code>
+          <div class="tocsec">
+            <code class="tocseccol">wp({{ index $num 2 }}):</code>
+          </div>
         {{ end }}
         
         {{ if eq $index $n3 }}
-          <br><br><code style="color: #faa;">blank({{ index $num 3 }}):</code>
+          <div class="tocsec">
+            <code class="tocseccol">blank({{ index $num 3 }}):</code>
+          </div>
         {{ end }}
 
         {{ if eq $index $n4 }}
-          <br><br><code style="color: #faa;">o({{ index $num 4 }}):</code>
+          <div class="tocsec">
+            <code class="tocseccol">log({{ index $num 4 }}):</code>
+          </div>
         {{ end }}
 
         {{ if eq $index $n5 }}
-          <br><br><code style="color: #faa;">to({{ index $num 5 }}):</code> 
+          <div class="tocsec">
+            <code class="tocseccol">o({{ index $num 5 }}):</code>
+          </div>
+        {{ end }}
+
+        {{ if eq $index $n6 }}
+          <div class="tocsec">
+            <code class="tocseccol">to({{ index $num 6 }}):</code> 
+          </div>
         {{ end }}
         
         {{ $index = sub $index 1 }}

@@ -113,3 +113,11 @@ figure.authors {
     margin-left: 10px;
   }
 }
+
+.tocsec {
+  display: inline;
+}
+
+.tocseccol {
+  color: #faa;
+}

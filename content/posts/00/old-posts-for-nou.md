@@ -18,18 +18,18 @@ Old posts to be migrated to nou <!--more-->
 
 ### github (840)
 - `2024-2024` https://dudung.github.io/to/ (26) &check;
-- `2024-2024` https://dudung.github.io/o/ (93) &check;
 - `2024-2024` https://dudung.github.io/blank/ (35) &check;
+- `2020-2024` https://dudung.github.io/o/ (93) &check;
+- `2020-2020` https://github.com/dudung/log (10) &check;
 - `2022-2022` https://dudung.github.io/bugx/ (180)
 - `2021-2022` https://bugx.vercel.app/ (212)
 - `2021-2021` http://dudung.github.io/soal (278)
-- `2020-2020` https://github.com/dudung/log (10)
 
 ### slideshare (107)
 + `2011-2021` https://www.slideshare.net/sparisoma (107)
 
 ### wordpress (16)
-+ `2007-2018` http://viridi.worpress.com/ (16)
++ `2007-2018` http://viridi.worpress.com/ (16) &check;
 
 ### blogspot (28)
 + `2016-2017` https://dudunq.blogspot.com/ (8)
