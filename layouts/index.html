@@ -14,12 +14,13 @@
     {{ $max := len .Site.RegularPages }}
     {{ $index :=  sub $max 1 }}
     
-    {{ $num := slice 2 60 35 93 26 }}
+    {{ $num := slice 2 60 16 35 93 26 }}
     {{ $n0 := index $num 0 }}
     {{ $n1 := add $n0 (index $num 1) }}
     {{ $n2 := add $n1 (index $num 2) }}
     {{ $n3 := add $n2 (index $num 3) }}
     {{ $n4 := add $n3 (index $num 4) }}
+    {{ $n5 := add $n4 (index $num 5) }}
     
     {{/* range sort .Site.RegularPages ".Params.url" "desc" */}}
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
@@ -44,15 +45,19 @@
         {{ end }}
         
         {{ if eq $index $n2 }}
-          <br><br><code style="color: #faa;">blank({{ index $num 2 }}):</code>
+          <br><br><code style="color: #faa;">wp({{ index $num 2 }}):</code>
         {{ end }}
-
+        
         {{ if eq $index $n3 }}
-          <br><br><code style="color: #faa;">o({{ index $num 3 }}):</code>
+          <br><br><code style="color: #faa;">blank({{ index $num 3 }}):</code>
         {{ end }}
 
         {{ if eq $index $n4 }}
-          <br><br><code style="color: #faa;">to({{ index $num 4 }}):</code> 
+          <br><br><code style="color: #faa;">o({{ index $num 4 }}):</code>
+        {{ end }}
+
+        {{ if eq $index $n5 }}
+          <br><br><code style="color: #faa;">to({{ index $num 5 }}):</code> 
         {{ end }}
         
         {{ $index = sub $index 1 }}
