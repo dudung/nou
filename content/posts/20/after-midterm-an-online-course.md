@@ -32,6 +32,8 @@ After midterm there are only three session left for online (week 10-12) since th
   - [`k8b7q`](https://osf.io/k8b7q) Practicing Python for ML `(50)`
   - [`wqv3z`](https://osf.io/wqv3z) ML synthetic data with Python `(50)`
 
+The course ends at 1834 and descriptive statistics has not been delivered yet.
+
 
 ## rephrasing
 Give thoughts Tujuan Pendidikan Program Studi as follow
@@ -51,6 +53,19 @@ to a WAG [^gradnuc_2024] by rephrasing current version
 5. Mengkomunikasikan aspek-aspek ilmu dan rekayasa nuklir kepada komunitas yang relevan
 
 Above points are copied verbatim from sent screenshot.
+
+
+## others
+There are other scattered activities, which are too specific to be addressed individualy, that will be referred only with its OSF link as follow.
+
++ [`zdmfx`](https://osf.io/zdmfx) `1` Send result for gelombang problem to graduate selection team, very late.
++ [`aqgnr`](https://osf.io/aqgnr) `1` Comment on TIMES-iCONS revised manuscript from Aria Wicaksono.
++ [`me452`](https://osf.io/me452) `0` Miss the offline meeting for curriculum evalution of Computational Science Master Program.
++ [`rwexb`](https://osf.io/rwexb) `0` Miss online meeting on Temulawak proposal with DAMARS and DAAD.
++ [`8s3m7`](https://osf.io/8s3m7) `1` SK5221-01 afternoon online session about 2.5 hours, About Data.
++ [`8sug3`](https://osf.io/8sug3) `1` Night online meeting on machine learning for gravity model.
+
+Missing records: Registration of an DAAD meeting from SBM, RAB for RKI 2024, preparation of ML session and research meeting. Perhaps tomorrow early morning?
 
 
 ## notes
