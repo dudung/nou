@@ -7,7 +7,7 @@ tags = ['certificate']
 url = '2033'
 authors = ['viridi']
 +++
-Some certificates <!--more-->
+Some certificates for 2021-2024 <!--more-->
 
 
 ## intro
@@ -25,6 +25,17 @@ This post is about list of certificates obtained from various activities.
 ## 2023
 + `05-dec` [`wsv43`](https://osf.io/wsv43) Seminar AI in Academics and Internationalization of Higher Education Institutions, Bogor, International Research Institute i-MAR IPB University & DAMARS (participant).
 + `12-sep` [`aqd42`](https://osf.io/aqd42) The 4th International Conference on Integrated Coastal Management & Marine Biotechnology, Bali, IPB University & DAAD (presenter).
+
+
+## 2022
++ `12-dec` [`qbh8e`](https://osf.io/qbh8e) Lomba Peneliti Belia, Center for Young Scientists, Jakarta, Physics (jury).
++ `17-nov` [`3xzy9`](https://osf.io/3xzy9) The 8th International Conference on Climate Change, Bankok, AIT & UNS (participant).
++ `08-mar` [`mnhw9`](https://osf.io/mnhw9) Seminar Nasional Literasi Jaminan Produk Halal Dalam Mendukung Pengembangan Ekonomi Pariwisata Halal, LPPM Universitas Negeri Malang, Malang (participant).
++ `24-feb` [`x4gd3`](https://osf.io/x4gd3) Webbinar Apa Itu Fisika Medis?, Himpunan Masyarakat Nuklir Indonesia (participant).
+
+
+## 2021
++ `23-nov` [`45wxc`](https://osf.io/45wxc) Webinar & Workshop Penulisan Artikel Jurnal Ilmiah bertopik Strategi Penulisan Artikel Ilmiah, JP Global Transtech & Universitas Padjadjaran (speaker).
 
 
 ## notes
