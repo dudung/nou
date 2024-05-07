@@ -31,7 +31,7 @@ This post is about list of certificates obtained from various activities.
 + `12-dec` [`qbh8e`](https://osf.io/qbh8e) Lomba Peneliti Belia, Center for Young Scientists, Jakarta, Physics (jury).
 + `17-nov` [`3xzy9`](https://osf.io/3xzy9) The 8th International Conference on Climate Change, Bankok, AIT & UNS (participant).
 + `08-mar` [`mnhw9`](https://osf.io/mnhw9) Seminar Nasional Literasi Jaminan Produk Halal Dalam Mendukung Pengembangan Ekonomi Pariwisata Halal, LPPM Universitas Negeri Malang, Malang (participant).
-+ `24-feb` [`x4gd3`](https://osf.io/x4gd3) Webbinar Apa Itu Fisika Medis?, Himpunan Masyarakat Nuklir Indonesia (participant).
++ `24-feb` [`x4gd3`](https://osf.io/x4gd3) Webinar Apa Itu Fisika Medis?, Himpunan Masyarakat Nuklir Indonesia (participant).
 
 
 ## 2021 (1)
