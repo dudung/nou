@@ -269,7 +269,43 @@ Successfully installed graphviz-0.20.3
 (tf) M:\py-jupyter-nb>
 ```
 
+How to install graphvis is on Medium [Install Graphviz on Windows 11](https://medium.com/p/26a3c4446178), with the code
 
+```py
+import numpy as np
+import tensorflow as tf
+from tensorflow.keras import layers
+import keras
+from keras import ops
+
+# create input, two features, four rows
+l = [ [1, 1], [1, 2], [2, 1], [2, 2] ]
+x = ops.array(l)
+
+model = tf.keras.Sequential([
+    layers.Dense(128, activation="sigmoid", name="Layer 1"),
+    layers.Dense(128, activation="relu", name="Layer 2"),
+    layers.Dense(10, activation="softmax", name="Layer 3")
+])
+
+y = model(x)
+print(x)
+
+dot_img_file = 'model_1.png'
+keras.utils.plot_model(
+    model,
+    to_file=dot_img_file,
+    show_shapes=True,
+    show_dtype=True,
+    show_layer_names=True,
+    rankdir="TB",
+    show_layer_activations=True,
+    expand_nested=True,
+    show_trainable=True
+)
+```
+
+that produces [model_1.png](https://raw.githubusercontent.com/dudung/py-jupyter-nb/main/src/apply/misc/nou/model_1.png) as the result.
 
 
 ## notes
