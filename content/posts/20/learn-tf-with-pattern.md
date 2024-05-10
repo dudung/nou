@@ -11,7 +11,7 @@ Learning machine learning using tensor flow with intuition <!--more-->
 
 
 ## intro
-With prior knowledge of ANN architectures TensofFlow functions are learned intuitively by observing the pattern on Python syntaxes from previous code in a story [^viridi_2024].
+With prior knowledge of ANN architectures TensofFlow functions are learned intuitively by observing the pattern on Python syntaxes from previous code in a story [^viridi_2024]. But, unfortunately it does not work well.
 
 
 ## template
@@ -239,12 +239,12 @@ It does not produce any error messages, but the results seem wrong.
 
 
 ## learn first
-Read https://keras.io/guides/sequential_model/ since I do not understand.
-
-So this post does not work, since my prior knowledge is not adequate to create the model.
+Read https://keras.io/guides/sequential_model/ since I do not understand. So this post does not work, since my prior knowledge is not adequate to create the model.
 
 
 ## draw Model
+Then I learn to draw the model. But, it requires that two Python packages must be installed first
+
 ```
 (tf) M:\py-jupyter-nb>pip install pydot
 Collecting pydot
@@ -269,7 +269,7 @@ Successfully installed graphviz-0.20.3
 (tf) M:\py-jupyter-nb>
 ```
 
-How to install graphvis is on Medium [Install Graphviz on Windows 11](https://medium.com/p/26a3c4446178), with the code
+then also Graphviz software. How to install it is on Medium [Install Graphviz on Windows 11](https://medium.com/p/26a3c4446178). The code
 
 ```py
 import numpy as np
@@ -305,7 +305,7 @@ keras.utils.plot_model(
 )
 ```
 
-that produces [model_1.png](https://raw.githubusercontent.com/dudung/py-jupyter-nb/main/src/apply/misc/nou/model_1.png) as the result.
+will produce [model_1.png](https://raw.githubusercontent.com/dudung/py-jupyter-nb/main/src/apply/misc/nou/model_1.png) as the result.
 
 
 ## notes
