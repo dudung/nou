@@ -244,5 +244,33 @@ Read https://keras.io/guides/sequential_model/ since I do not understand.
 So this post does not work, since my prior knowledge is not adequate to create the model.
 
 
+## draw Model
+```
+(tf) M:\py-jupyter-nb>pip install pydot
+Collecting pydot
+  Downloading pydot-2.0.0-py3-none-any.whl.metadata (9.6 kB)
+Requirement already satisfied: pyparsing>=3 in v:\tf\lib\site-packages (from pydot) (3.1.2)
+Downloading pydot-2.0.0-py3-none-any.whl (22 kB)
+Installing collected packages: pydot
+Successfully installed pydot-2.0.0
+
+(tf) M:\py-jupyter-nb>
+```
+
+```
+(tf) M:\py-jupyter-nb>pip install graphviz
+Collecting graphviz
+  Downloading graphviz-0.20.3-py3-none-any.whl.metadata (12 kB)
+Downloading graphviz-0.20.3-py3-none-any.whl (47 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 47.1/47.1 kB 1.2 MB/s eta 0:00:00
+Installing collected packages: graphviz
+Successfully installed graphviz-0.20.3
+
+(tf) M:\py-jupyter-nb>
+```
+
+
+
+
 ## notes
 [^viridi_2024]: Sparisoma Viridi, "A Python Virtual Environment for TensofFlow", Mr Plant B Publication -- Medium, 9 May 2024, url https://medium.com/p/3056789ab7a2 [20240510].
